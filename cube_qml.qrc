@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/main.qml</file>
+        <file>qml/content/Cube.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/logo.jpg</file>
+    </qresource>
+</RCC>

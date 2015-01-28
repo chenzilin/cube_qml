@@ -1,0 +1,6 @@
+*~
+*.swp*
+*.user*
+bin/*
+build/*
+Makefile
